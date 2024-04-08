@@ -1,0 +1,16 @@
+-------------------------------------
+|             Circle                |
+-------------------------------------
+| - radius: double                  |
+-------------------------------------
+| + Circle()                        |
+| + Circle(double radius)           |
+| + Circle(double radius, String color, boolean filled) |
+| + getRadius(): double             |
+| + setRadius(double radius): void  |
+| + getArea(): double               |
+| + getPerimeter(): double          |
+| + compareTo(Circle o): int        |
+| + equals(Object obj): boolean     |
+| + toString(): String              |
+-------------------------------------
